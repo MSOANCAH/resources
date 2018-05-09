@@ -60,7 +60,7 @@ Linux distributions, Windows 10 with Bash (Anniversary update) or recent Mac OS
 
     Otherwise, download and install [Miniconda for Windows](https://conda.io/miniconda.html) with python 3.6  (exe installer) 
 
-2. Follow the aforementioned Linux instructions from point 2
+2. Follow the aforementioned [Linux instructions](https://github.com/ai4socialgood/resources/blob/master/README.md#linux-instructions) from point 2
 
 
 ### Instructions for Mac OS ###
@@ -74,7 +74,7 @@ Linux distributions, Windows 10 with Bash (Anniversary update) or recent Mac OS
     Install Conda from the console bash:
     `bash Miniconda3-latest-MacOSX-x86_64.sh`
 
-2. Follow the aforementioned Linux instructions from point 2
+2. Follow the aforementioned [Linux instructions](https://github.com/ai4socialgood/resources/blob/master/README.md#linux-instructions) from point 2
 
 
 Tutorials
