@@ -1,3 +1,8 @@
+
+# [Welcome: Labs for Introduction to Machine Learning](https://github.com/ai4socialgood/resources/blob/master/exercises/Welcome_%20Introduction%20to%20Machine%20Learning%20Labs.ipynb)
+
+
+
 ## Lab Notebooks
 
 - [Lab 1](https://github.com/ai4socialgood/resources/blob/master/exercises/Lab_1_Loading_and_Understanding_Your_Data.ipynb)
