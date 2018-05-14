@@ -88,8 +88,8 @@ No installation required! Simply clone this repo and upload the notebooks to [Co
 
 Tutorials
 ===================
-Tutorial on [Scientific computing with Numpy](http://cs231n.github.io/python-numpy-tutorial/)
-
+- Tutorial on [Scientific computing with Numpy](http://cs231n.github.io/python-numpy-tutorial/)
+- Neural network with [11 lines of code](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 
 
 Additional Resources
