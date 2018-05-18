@@ -9,7 +9,8 @@
 - [Python crash course](https://drive.google.com/file/d/1Uumx3bCO5CyzSIzbcybxW30yeBG3bSnK/view?usp=sharing), [Numpy crash course](https://drive.google.com/file/d/1labdEvCWP3-OnzWh97lCX-8VbKQV00cH/view?usp=sharing)
 - [Lab 6 in Colab](https://drive.google.com/file/d/1mnuWyEloxUxUXay5jnJG41P0NfLoXVXV/view?usp=sharing), [Lab 6 solutions in Colab](https://drive.google.com/file/d/1pKLaVEs1MiAcETJwPsHPzK3lUKfcNliY/view?usp=sharing)
 - [Lab 8 in Colab](https://drive.google.com/file/d/1oNJURQRvPiOsUZKUUhdv0NIzVXh-qQFJ/view?usp=sharing), Lab 8 solutions in Colab
-- [Lab Neural Networks in Colab](https://drive.google.com/file/d/1Vnx2CHNszcptbvJCOIwfySPr3lrLUm1K/view?usp=sharing)
+- [DIY: Lab MNIST using MLP in Colab](https://drive.google.com/file/d/1wnaw0Mk_m9Ftx2oEgAc2_AcirjM3v0ti/view?usp=sharing)
+
 
 ## Colab setup
 When you open the notebooks in Colab, they will be read-only. Simply copy them as shown below
