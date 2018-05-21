@@ -9,7 +9,7 @@
 - [Python crash course](https://drive.google.com/file/d/1Uumx3bCO5CyzSIzbcybxW30yeBG3bSnK/view?usp=sharing), [Numpy crash course](https://drive.google.com/file/d/1labdEvCWP3-OnzWh97lCX-8VbKQV00cH/view?usp=sharing)
 - [Lab 6 in Colab](https://drive.google.com/file/d/1mnuWyEloxUxUXay5jnJG41P0NfLoXVXV/view?usp=sharing), [Lab 6 solutions in Colab](https://drive.google.com/file/d/1pKLaVEs1MiAcETJwPsHPzK3lUKfcNliY/view?usp=sharing)
 - [Lab 8 in Colab](https://drive.google.com/file/d/1oNJURQRvPiOsUZKUUhdv0NIzVXh-qQFJ/view?usp=sharing), Lab 8 solutions in Colab
-- DIY: Lab MNIST using MLP in Colab 
+- DIY: Lab MNIST using MLP in Colab. You can start with [this guideline code in Colab](https://drive.google.com/file/d/1Writ0ntZQ6jEKeSNYqZBEqVAd-jqe2Qw/view?usp=sharing).
 
 
 ## Colab setup
