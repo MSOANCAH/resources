@@ -11,7 +11,7 @@
 - [Lab 8 in Colab](https://drive.google.com/file/d/1oNJURQRvPiOsUZKUUhdv0NIzVXh-qQFJ/view?usp=sharing), [Lab 8 solutions in Colab](https://drive.google.com/file/d/1p-2E4S-R8CqgBTvUbTNmQtGR6wJrMaor/view?usp=sharing)
 - DIY: Lab MNIST using MLP in Colab. You can start with [this guideline code in Colab](https://drive.google.com/file/d/1Writ0ntZQ6jEKeSNYqZBEqVAd-jqe2Qw/view?usp=sharing).
 - [LSTM lab in Colab](https://drive.google.com/file/d/1BpUiE47-A9dwxP4eZBv_ZZlmLX6BESEb/view?usp=sharing)
-- [Reinforcement Learning Tutorial in Colab](https://colab.research.google.com/drive/1iEEijml3US5lNjX2NDLVUAfeTVv-UgDy)
+- [Reinforcement Learning Tutorial in Colab](https://colab.research.google.com/drive/1iEEijml3US5lNjX2NDLVUAfeTVv-UgDy) 
 
 
 ## Colab setup
