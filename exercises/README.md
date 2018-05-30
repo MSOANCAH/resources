@@ -13,12 +13,15 @@
     - [MNIST MLP solution in Colab](https://drive.google.com/file/d/1wnaw0Mk_m9Ftx2oEgAc2_AcirjM3v0ti/view?usp=sharing)
 - [LSTM lab in Colab](https://drive.google.com/file/d/1BpUiE47-A9dwxP4eZBv_ZZlmLX6BESEb/view?usp=sharing)
 - [Reinforcement Learning Tutorial in Colab](https://colab.research.google.com/drive/1iEEijml3US5lNjX2NDLVUAfeTVv-UgDy)
-- Amazon Rainforest classification project:
-    - Check the Kaggle [Amazon main page](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space), and [read about the dataset](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data)
-    - [Here is a useful script](https://www.kaggle.com/mratsim/starting-kit-for-pytorch-deep-learning) to preprocess your data
-    - Now, try to build your own fancy classifier!
-    - Hint: if you want a really good classifier, try a VGG net from [`torchvision.models`](https://pytorch.org/docs/master/torchvision/models.html)
-    - If you use the pretrained VGG, don't forget to add a trainable layer on top! ;)
+
+## Amazon Rainforest mini-project
+Your task is to build a classifier for the Amazon Rainforest dataset from Kaggle. Some guidelines:
+
+- Check the Kaggle [Amazon main page](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space), and [read about the dataset](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data)
+- [Here is a useful script](https://www.kaggle.com/mratsim/starting-kit-for-pytorch-deep-learning) to preprocess your data
+- Now, try to build your own fancy classifier!
+- Hint: if you want a really good classifier, try a VGG net from [`torchvision.models`](https://pytorch.org/docs/master/torchvision/models.html)
+- If you use the pretrained VGG, don't forget to add a trainable layer on top! ;)
 
 
 ## Colab setup
